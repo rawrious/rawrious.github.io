@@ -18,14 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+name: Ceara Byrne
 title: Attempting to Document the Sh*t Out of this Dissertation
 email: ceara.byrne@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a researcher in Animal Computer Interaction who also does research in Brain Computer Interfaces
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "@thenanoestkiwi"
-github_username:  rawrious
+  I'm a researcher in Animal Computer Interaction who also does research in Brain Computer Interfaces.
+  
+footer-links:
+  baseurl: "" # the subpath of your site, e.g. /blog
+  url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  twitter_username: "@thenanoestkiwi"
+  github_username:  rawrious
 
 # Build settings
 theme: jekyll-theme-midnight
