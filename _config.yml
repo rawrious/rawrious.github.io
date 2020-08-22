@@ -24,11 +24,10 @@ email: ceara.byrne@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a researcher in Animal Computer Interaction who also does research in Brain Computer Interfaces.
   
-footer-links:
-  baseurl: "" # the subpath of your site, e.g. /blog
-  url: "" # the base hostname & protocol for your site, e.g. http://example.com
-  twitter_username: "@thenanoestkiwi"
-  github_username:  rawrious
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "@thenanoestkiwi"
+github_username:  rawrious
 
 # Build settings
 theme: jekyll-theme-midnight
