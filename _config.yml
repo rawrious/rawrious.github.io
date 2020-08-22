@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 name: Ceara Byrne
-title: Attempting to Document the Sh*t Out of this Dissertation
+title: Things
 email: ceara.byrne@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a researcher in Animal Computer Interaction who also does research in Brain Computer Interfaces.
