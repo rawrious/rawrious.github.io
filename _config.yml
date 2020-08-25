@@ -18,10 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Attempting to Document the Sh*t Out of this Dissertation
+name: Ceara Byrne
+title: Things
 email: ceara.byrne@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a researcher in Animal Computer Interaction who also does research in Brain Computer Interfaces
+  I'm a researcher in Animal Computer Interaction who also does research in Brain Computer Interfaces.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@thenanoestkiwi"
