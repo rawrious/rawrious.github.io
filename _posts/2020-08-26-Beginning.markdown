@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "The Beginning"
 date:   2020-08-27 01:32:09 -0400
 categories: ACI, BCI, paper writing, blog
