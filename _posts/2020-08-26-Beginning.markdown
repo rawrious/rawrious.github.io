@@ -32,3 +32,4 @@ Also, not all days are tough days, but today was especially rough. I'm building 
 
 
 OK. This got more technical than I expected. After banging my head against the table for an hour or so, I walked home while talking to my mom and then ended up watching a couple of episodes of *Terrace House: Opening New Doors*. I really hope Tsubasa and Shion end up together.
+
