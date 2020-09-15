@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interviews and Other Things"
-date:   2020-08-28 05:11:00 -0400
+date:   2020-08-26 05:11:00 -0400
 categories: ACI, BCI, blog
 ---
 
