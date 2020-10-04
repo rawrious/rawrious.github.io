@@ -6,7 +6,7 @@ categories: ACI
 ---
 
 
-Working on the dissertation today :/. You're not going to get a whole lot out of me
+Working on the dissertation today :/. You're not going to get a whole lot out of me. 
 
 Catalina basically bricked my machine. While I've been able to keep all my data (I back up regularly), I've lost a lot of time today attempting to drop down to Mojave. :(
 
